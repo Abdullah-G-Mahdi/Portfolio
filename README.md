@@ -16,12 +16,12 @@ I am a Embedded Software Engineer with 3+ years of experience in the automotive 
 
 ### **R&D Embedded Software Engineer**  
 **Valeo Group** (April 2022 – Present)  
-- Developed software for embedded systems using C/C++ programming.
-- Working on real-time operating systems (QNX and Safe-RTOS).
-- Implementing Modules like Inter-process communication protocol and Non-Volite memory handling.
-- Worked with VectorCast, Klocwork, and TRACE32 debugger.
-- Documented modules using Doors.
-- Followed ISO26262 and ASPICE standards for safety and process improvement.
+- Developed software for embedded systems using C/C++ programming.  
+- Working on real-time operating systems (QNX and Safe-RTOS).  
+- Implementing Modules like Inter-process communication protocol and Non-Volite memory handling.  
+- Worked with VectorCast, Klocwork, and TRACE32 debugger.  
+- Documented modules using Doors.  
+- Followed ISO26262 and ASPICE standards for safety and process improvement.  
 
 ---
 
