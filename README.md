@@ -1,24 +1,24 @@
-# Abdullah Gamal Abdullah
+# Abdullah Gamal Mahdi
 **Embedded Software Engineer**
 
 Benha, Qalyubia, Egypt  
 **Phone**: +20 01013999219  
 **Email**: [abdullah.gamal.eng@gmail.com](mailto:abdullah.gamal.eng@gmail.com)  
-**LinkedIn**: [linkedin.com/in/abdullah-gamal-mech20](https://www.linkedin.com/in/abdullah-gamal-mech20)  
+**LinkedIn**: [Profile](https://www.linkedin.com/in/-abdullah-mahdi/)  
 
 ---
 
 ## About Me
-I am a dedicated Embedded Software Engineer with experience in real-time systems, communication protocols, and unit testing. Passionate about automation and continuous learning in the field of embedded systems.
-
+I am a Embedded Software Engineer with 3+ years of experience in the automotive industry. Proven ability to design, develop, and test embedded software for automotive applications. Proficient in embedded C/C++ programming, real-time operating systems (QNX, Safe-RTOS), and communication protocols (UART, SPI,LIN), With knowledge of ISO26262 and ASPICE.
 ---
 
 ## Work Experience
 
 ### **R&D Embedded Software Engineer**  
 **Valeo Group** (April 2022 – Present)  
-- Developed software for embedded systems using C programming.
-- Implemented real-time operating systems (QNX and Safe-RTOS).
+- Developed software for embedded systems using C/C++ programming.
+- Working on real-time operating systems (QNX and Safe-RTOS).
+- Implementing Modules like Inter-process communication protocol and Non-Volite memory handling.
 - Worked with VectorCast, Klocwork, and TRACE32 debugger.
 - Documented modules using Doors.
 - Followed ISO26262 and ASPICE standards for safety and process improvement.
@@ -27,18 +27,19 @@ I am a dedicated Embedded Software Engineer with experience in real-time systems
 
 ## Skills
 ### **Technical Skills**
-- Embedded C programming  
-- Communication protocols: UART, SPI, I2C, LIN  
-- Real-Time Operating Systems: QNX, Safe-RTOS  
-- Debugging and Testing: TRACE32, VectorCast  
-- Static Analysis Tools: Klocwork  
-- Automation: Python scripting  
+- Embedded C/C++ programming.
+- Communication protocols: UART, SPI, I2C, LIN, Shared Memory.  
+- Real-Time Operating Systems: QNX, Safe-RTOS.
+- Debugging and Testing: TRACE32, VectorCast.  
+- Static Analysis Tools: Klocwork.  
+- Automation: Python and Bash scripting, Also Google Javascript.  
 - Documentation: Doors  
 
 ### **Soft Skills**
 - Problem-solving  
 - Time management  
-- Team collaboration  
+- Team collaboration
+- Active learning
 
 ---
 
