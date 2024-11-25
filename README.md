@@ -33,7 +33,7 @@ I am a Embedded Software Engineer with 3+ years of experience in the automotive 
 - Debugging and Testing: TRACE32, VectorCast.  
 - Static Analysis Tools: Klocwork.  
 - Automation: Python and Bash scripting, Also Google Javascript.  
-- Documentation: Doors  
+- Documentation: Doors.  
 
 ### **Soft Skills**
 - Problem-solving  
