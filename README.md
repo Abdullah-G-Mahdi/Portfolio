@@ -56,7 +56,7 @@ I am a Embedded Software Engineer with 3+ years of experience in the automotive 
 
 ## Certifications
 - **Safe-RTOS Certification**: [View Certificate](https://drive.google.com/file/d/1NeoFIaulam_GDJI2jIs4QFO-cjNwhL0C/view)  
-- **Microcontroller Embedded C**: [View Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-45593c5d-405c-4ffc-9d4e-77fcc51c13ef.jpg)  
+- **BS, Mechatronics Engineering (University Of Wales)**: [View Certificate](https://drive.google.com/file/d/1Ni4Jm5NSY4UnBQEah3hOAg5-s9KPEXuO/view)  
 
 ---
 
