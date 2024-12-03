@@ -52,7 +52,7 @@ Benha, Qalyubia, Egypt
 ## Education
 
 **B.CS in Mechatronics Engineering**  
-- Modern University for Technology and Information, Egypt | 2020 
+- Modern University for Technology and Information, Egypt | 2020  
   - Grade: Good | Project Grade: Excellent  
 - University of Wales, United Kingdom | 2020  
   - Grade: Second Class Honours Division 1  
