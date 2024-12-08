@@ -51,7 +51,7 @@ Benha, Qalyubia, Egypt
 
 ## Education
 
-###B.CS in Mechatronics Engineering  
+### B.CS in Mechatronics Engineering  
 - **Modern University for Technology and Information, Egypt** (2020)  
   - Grade: Good  
   - Project Grade: Excellent  
