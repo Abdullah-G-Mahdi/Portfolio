@@ -8,7 +8,7 @@ Benha, Qalyubia, Egypt
 ---
 
 ## Professional Summary
-#### Embedded Software Engineer with over 3 years of experience in the automotive industry. Specialized in developing and optimizing embedded systems for high-profile projects. Proficient in embedded C/C++, real-time operating systems, and safety standards. Adept at leading teams to meet key performance indicators while delivering reliable, scalable solutions.
+#### Embedded Software Engineer with solid hands-on experience in the automotive industry, specializing in real-time systems, embedded C, and safety-critical software development. Currently working at Valeo as part of the Vcore team, I’ve led and contributed to projects involving Qualcomm Snapdragon SoCs, SafeRTOS, and BSP/middleware integration. I’m well-versed in functional safety (ISO 26262), and memory sharing techniques, with a track record of building abstraction layers to isolate system complexity and increase modularity. My experience also includes unit testing, static analysis, documentation, and cross-functional collaboration aligned with ASPICE and safety standards. Passionate about developing reliable automotive software solutions that meet the highest standards of safety and performance.
 ---
 
 ## Work Experience
